@@ -1,0 +1,7 @@
+E:\Учеба\Уроки программирования\C#\ConsoleAppLesson_1\ConsoleAppLesson_1\bin\Debug\ConsoleAppLesson_1.exe.config
+E:\Учеба\Уроки программирования\C#\ConsoleAppLesson_1\ConsoleAppLesson_1\bin\Debug\ConsoleAppLesson_1.exe
+E:\Учеба\Уроки программирования\C#\ConsoleAppLesson_1\ConsoleAppLesson_1\bin\Debug\ConsoleAppLesson_1.pdb
+E:\Учеба\Уроки программирования\C#\ConsoleAppLesson_1\ConsoleAppLesson_1\obj\Debug\ConsoleAppLesson_1.csprojAssemblyReference.cache
+E:\Учеба\Уроки программирования\C#\ConsoleAppLesson_1\ConsoleAppLesson_1\obj\Debug\ConsoleAppLesson_1.csproj.CoreCompileInputs.cache
+E:\Учеба\Уроки программирования\C#\ConsoleAppLesson_1\ConsoleAppLesson_1\obj\Debug\ConsoleAppLesson_1.exe
+E:\Учеба\Уроки программирования\C#\ConsoleAppLesson_1\ConsoleAppLesson_1\obj\Debug\ConsoleAppLesson_1.pdb
